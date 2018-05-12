@@ -1,0 +1,28 @@
+_repo: Matkustus-Argentinassa-ja-UruguayssaTietoja-n-iden-la-Platan-tasavaltain-oloista_27376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Donner, Arno
+    gutenberg_agent_id: '32657'
+    url: http://www.gutenberg.org/2009/agents/32657
+description: ''
+gutenberg_issued: '2008-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27376'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2701'
+- !lcc 'F2801'
+- !lcsh 'Uruguay'
+- !lcsh 'Argentina'
+title: 'Matkustus Argentinassa ja Uruguayssa
+
+  Tietoja näiden la Platan tasavaltain oloista'
+url: http://www.gutenberg.org/ebooks/27376
